@@ -1,4 +1,4 @@
-package com.amit.movieinfoservice;
+package com.example.movieinfoservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
